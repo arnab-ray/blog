@@ -1,4 +1,4 @@
 ---
-title: Arnab Ray: TIL
+title: Arnab Ray - TIL
 ---
 
